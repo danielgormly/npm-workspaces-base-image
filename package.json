@@ -1,0 +1,15 @@
+{
+  "name": "base-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-lockfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.2.12"
+  }
+}
